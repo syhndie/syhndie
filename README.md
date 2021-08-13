@@ -1,11 +1,11 @@
 Hi, I'm Cindy, also known as Syhndie. 
 
-I am focused on learning
-	* C#
-	* ASP.NET framework
-	* JavaScript
-	* HTML
-	* CSS
+I am focused on learning  
+	* C#  
+	* ASP.NET framework  
+	* JavaScript  
+	* HTML  
+	* CSS  
 	* many, many other things that may cross my path 
 
 <!---
