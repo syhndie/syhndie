@@ -6,7 +6,7 @@ I am focused on learning
 	- JavaScript  
 	- HTML  
 	- CSS  
-	- many, many other things that may cross my path 
+	- other things as they cross my path 
 
 <!---
 syhndie/syhndie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
