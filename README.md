@@ -1,8 +1,12 @@
 Hi, I'm Cindy, also known as Syhndie. 
 
-I am focused mostly on C#, ASP.NET, SQL, JavaScript, CSS, and HTML.
-
-I am also currently interested in learning React and Python, and am going to get started on that any minute now.
+I am focused on learning
+	* C#
+	* ASP.NET framework
+	* JavaScript
+	* HTML
+	* CSS
+	* many, many other things that may cross my path 
 
 <!---
 syhndie/syhndie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
